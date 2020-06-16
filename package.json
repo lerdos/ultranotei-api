@@ -1,6 +1,6 @@
 {
-  "name": "conceal-api",
-  "version": "0.7.5",
+  "name": "ultranotei-api",
+  "version": "0.1.1",
   "description": "CJSI: Conceal Javascript Interface - RPC/API",
   "main": "index.js",
   "scripts": {
@@ -8,10 +8,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ConcealNetwork/conceal-api.git"
+    "url": "git+https://github.com/lerdos/ultranotei-api.git"
   },
   "keywords": [
-    "conceal",
+    "xuni",
     "cryptocurrency",
     "rpc",
     "api"
@@ -19,7 +19,7 @@
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ConcealNetwork/conceal-api/issues"
+    "url": "https://github.com/lerdos/ultranotei-api/issues"
   },
-  "homepage": "https://github.com/ConcealNetwork/conceal-api#readme"
+  "homepage": "https://github.com/lerdos/ultranotei-api#readme"
 }
